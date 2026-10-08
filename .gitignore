@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+model/
+my-index/
+.DS_Store

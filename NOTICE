@@ -1,0 +1,19 @@
+NeoMME MLX is an unofficial implementation, not affiliated with H Company.
+
+NeoMME model weights and the reference architecture/processor:
+Copyright 2026 H Company and the HuggingFace Inc. team.
+Licensed under Apache License 2.0, included as LICENSE.
+Reference: Transformers 5.19.0, models/neomme; exact module hashes in validation.
+
+MLX implementation, NumPy processor and local retrieval tools:
+2026 Nurymanau / Obscyra-app contributors. Apache License 2.0.
+Modified implementation: Torch modules replaced by MLX tensor operations;
+processor replaced by NumPy/tokenizers; offline CLI and validation added.
+Original model weights remain byte-identical; inference uses FP32 expansion.
+
+The integer bilinear antialias resize arithmetic follows PyTorch
+aten/src/ATen/native/cpu/UpSampleKernel.cpp. PyTorch is BSD-3-Clause;
+the full upstream license is included in licenses/PYTORCH_LICENSE.
+
+Dependencies retain their respective licenses. pypdfium2 distributes PDFium
+and its dependency notices in the installed wheel.

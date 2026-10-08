@@ -1,0 +1,57 @@
+{
+  "model_revision": "a2f11bf79b1a8a08c068abacf2f1f06fa056a28a",
+  "files": {
+    ".gitignore": {
+      "bytes": 53,
+      "sha256": "93f6968c82c1c4c7b590c8ca00d6032b85c8dd8906f31434bb081791bcdf0eec"
+    },
+    "LICENSE": {
+      "bytes": 11353,
+      "sha256": "6d002392f3dcd355a43c457e759c8fe3914cb48c2f7dce93d0dbba0fb99a34c8"
+    },
+    "NOTICE": {
+      "bytes": 1016,
+      "sha256": "7be9bcf5e8f0c9ba11e20c45634ca3deb9e2679006739743257be0a21fd4cf34"
+    },
+    "README.md": {
+      "bytes": 4662,
+      "sha256": "f0a7f072dfac332faf9c51bf819ebe10371103fe58129c41a3e0e79c35a3283e"
+    },
+    "VALIDATION.md": {
+      "bytes": 3371,
+      "sha256": "8d901ef324cb1604d756c777238483b95d222bed40d03ab11f585f0739a6e4e4"
+    },
+    "download_model.py": {
+      "bytes": 1082,
+      "sha256": "c2400204128b364113d39ee291b557375420cfb21041b90283f7c2175361be25"
+    },
+    "licenses/PYTORCH_LICENSE": {
+      "bytes": 3464,
+      "sha256": "bd018feef8825e88181c84eb7e3aa4eafb8f08a20d9fd6ef948569610c4a3e43"
+    },
+    "neomme_mlx/__init__.py": {
+      "bytes": 187,
+      "sha256": "af2f25ad2e1dced8a850fceb7543924cb2b3d1760445d43a0725f0766b106ddd"
+    },
+    "neomme_mlx/__main__.py": {
+      "bytes": 6511,
+      "sha256": "4581b7e5af2e2066845473704ffee0026aa47eb08d41fe2de94934b47841cdad"
+    },
+    "neomme_mlx/model.py": {
+      "bytes": 9724,
+      "sha256": "5374fced627a676a81d86b91f03d253d6b241d9701928c1c4435d7b62a4a43fe"
+    },
+    "neomme_mlx/processor.py": {
+      "bytes": 5741,
+      "sha256": "3ce2db1d472e62112ed6ccc2c259978d9269efb6802a6779f6da4d1868f8abcd"
+    },
+    "neomme_mlx/retrieval.py": {
+      "bytes": 1120,
+      "sha256": "38b2f3d6c315285eb3dd09d8b4d64d0211887aef3984290f1ad42879b32a0922"
+    },
+    "requirements.txt": {
+      "bytes": 77,
+      "sha256": "277716102854620d6cd23b0f2a29996e0ba48f57d3f23d862b4be7bc3c12572f"
+    }
+  }
+}

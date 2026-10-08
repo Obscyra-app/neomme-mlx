@@ -1,0 +1,5 @@
+mlx==0.32.3
+numpy==2.5.3
+tokenizers==0.23.2
+Pillow==12.3.0
+pypdfium2==5.14.0
